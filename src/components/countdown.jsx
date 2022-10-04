@@ -15,7 +15,7 @@ const Container = styled.div`
 `
 
 function CountDown() {
-    // The uncommented code actually works, but it's too imperative 
+    // The commented code actually works, but it's too imperative 
 
 
 

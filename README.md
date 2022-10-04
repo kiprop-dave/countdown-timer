@@ -22,18 +22,18 @@ This is my solution to the [Launch countdown timer challenge on Frontend Mentor]
 
 Users should be able to:
 
-- See hover states for all interactive elements on the page
-- See a live countdown timer that ticks down every second (start the count at 14 days)
+- See hover states for all interactive elements on the page ✅
+- See a live countdown timer that ticks down every second (start the count at 14 days) ✅
 - **Bonus**: When a number changes, make the card flip from the middle
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/public//countdown.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [here](https://countdown-timer-phi-puce.vercel.app/)
 
 ## My process
 
