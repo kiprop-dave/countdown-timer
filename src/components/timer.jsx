@@ -12,7 +12,7 @@ const Container = styled.div`
     /* border: solid 1px yellow; */
 
     @media screen and (max-width: 600px){
-        width: 5rem;
+        width: 7rem;
     }
 `
 const Time = styled.div`
@@ -22,7 +22,7 @@ const Time = styled.div`
     justify-content: center;
     height: 70%;
     width: 100%;
-    padding: 15% 0 0 0;
+    /* padding: 15% 0 0 0; */
     border-radius: 10px;
 
     .time{
